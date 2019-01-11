@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PopularMoviesApp</string>
+    <string name="titleLabel">Title:</string>
+    <string name="releaseDateLabel">Release Date:</string>
+    <string name="voteAvgLabel">Vote Average:</string>
+    <string name="plotSynopsisLabel">Overview:</string>
+    <string name="sort">Sort By</string>
+    <string-array name="sortby">
+        <item>Top Rated</item>
+        <item>Most Popular</item>
+    </string-array>
+</resources>
