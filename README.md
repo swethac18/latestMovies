@@ -1,4 +1,4 @@
-# NewFlix - latestMoviesApp
+# NewFlix - PopularMoviesApp
 Android App
 
 NewFlix app is designed to help users find the latest movies and their ratings with ability to sort films by popularity.
@@ -13,7 +13,7 @@ instead of creating a screen (activity) for every page of the list of movies ret
     pages of movies without having to make clicks/touches for each page. </li>
 </ul>
 
-### NewFlix - LatestMoviesApp UI Function
+### NewFlix - PopularMoviesApp UI Function
 <ol>
     <li>Movies are displayed in the main layout through a grid of their corresponding movie poster </li>
     <li>Contains a spinner element to toggle the sort order of the movies by: i.most rated ii.most popular </li>
