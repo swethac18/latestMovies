@@ -14,6 +14,6 @@ instead of creating a screen (activity) for every page of the list of movies ret
 
 <p>
     <img src="NewFlix_MoviesList.jpg" height="400" width="250">
-    <img src="NewFlix_sortOption.jpg" height="400" width="250">
+    <img src="Newflix_sortOption.jpg" height="400" width="250">
     <img src="Newflix_detailPage.jpg" height="400" width="250">
 </p>
