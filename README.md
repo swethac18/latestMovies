@@ -9,7 +9,7 @@ NewFlix app is designed to help users find the latest movies and their ratings w
 </ul>
 
 <p>
-    <img src="https://github.com/swethac18/Android-Projects/blob/master/NewFlix_MoviesList.jpg" height="400" width="250">
+    <img src="NewFlix_MoviesList.jpg" height="400" width="250">
     <img src="https://github.com/swethac18/Android-Projects/blob/master/NewFlix_sortOption.jpg" height="400" width="250">
     <img src="https://github.com/swethac18/Android-Projects/blob/master/NewFlix_detailPage.jpg" height="400" width="250">
 </p>
