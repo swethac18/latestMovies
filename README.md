@@ -13,6 +13,13 @@ instead of creating a screen (activity) for every page of the list of movies ret
     pages of movies without having to make clicks/touches for each page. </li>
 </ul>
 
+### NewFlix - LatestMoviesApp UI Function
+<ol>
+    <li>Movies are displayed in the main layout through a grid of their corresponding movie poster </li>
+    <li>Contains a spinner element to toggle the sort order of the movies by: 1.most rated 2.most popular </li>
+    <li>Contains a screen to display the details of the selected movie</li>
+</ol>
+
 <p>
     <img src="NewFlix_MoviesList.jpg" height="400" width="250">
     <img src="Newflix_sortOption.jpg" height="400" width="250">
